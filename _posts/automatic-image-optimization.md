@@ -1,7 +1,6 @@
 ---
-layout: default
+layout: post
 title: Responsive Optimization Best Practices
-parent: Public
 ---
 
 # Responsive Optimization Best Practices

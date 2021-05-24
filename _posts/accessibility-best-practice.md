@@ -1,7 +1,6 @@
 ---
-layout: default
+layout: post
 title: Site Accessibility Best Practices
-parent: Public
 ---
 
 # Site Accessibility Best Practices

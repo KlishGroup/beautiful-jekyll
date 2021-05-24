@@ -1,7 +1,6 @@
 ---
-layout: default
+layout: post
 title: Using Translation in TeamSite to Reach a Wider Audience
-parent: Public
 ---
 
 

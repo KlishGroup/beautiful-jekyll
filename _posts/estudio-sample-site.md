@@ -1,7 +1,6 @@
 ---
-layout: default
+layout: post
 title: Sample Responsive Sites for TeamSite’s Experience Studio
-parent: Public
 ---
 
 # Sample Responsive Sites for TeamSite’s Experience Studio
